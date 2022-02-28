@@ -1,2 +1,2 @@
 # world-university
- https://theshariful.github.io/world-university/
+ https://mohammadshariful.github.io/world-university/
